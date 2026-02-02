@@ -20,7 +20,7 @@
 * **[阶段 3: 缝合 (Synthesis)]**
     * **动作：** 汇总所有搜索到的原始文本。
     * **输出：** 撰写最终报告。
-    * **格式要求：** 必须包含 Executive Summary, Key Findings, 和 Data Conflicts（数据矛盾说明）。
+    * **格式要求：** 必须包含 Executive Summary, Key Findings, 和 Data Conflicts（数据矛盾说明）。最后的报告必须是一份md文件或者word文件，禁止用纯文字输出。
 
 ## 3. 代码生成规范 (Code Standards)
 为了防止环境崩溃和 Token 浪费，生成的 Python 代码必须严格遵守以下**鲁棒性标准**：
